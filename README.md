@@ -1,1 +1,2 @@
 # Go Barber API
+#
